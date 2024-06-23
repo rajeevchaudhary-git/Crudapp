@@ -25,7 +25,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with Lara
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/laravel-crud.git
+   git clone:https://github.com/rajeevchaudhary-x/Crudapp
    cd laravel-crud
 
 
